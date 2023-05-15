@@ -1,3 +1,11 @@
+#This script is a Python program that automates the installation of multiple Python packages. It uses the pip command to check if a package is already installed and installs the package if it is not.
+
+#The script sorts the list of packages in alphabetical order and installs them concurrently using multiple threads. It provides colorful console output using the colorama module.
+
+#After installing all the packages, it displays a thank you message and waits for user input to exit.
+
+#Made By Echoless#6801
+
 import subprocess
 import colorama
 from colorama import Fore, Style
