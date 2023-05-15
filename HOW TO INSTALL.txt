@@ -1,0 +1,26 @@
+To install the requirements specified in the script, follow these commands:
+
+Check if you have pip installed:
+
+pip --version
+If pip is not installed, install it using the appropriate command for your operating system. For example:
+
+On macOS and Linux:
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+
+On Windows:
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+py get-pip.py
+Install the colorama module:
+
+pip install colorama
+Save the script to a file named install_requirements.py.
+
+Run the script:
+
+Copy code
+python install_requirements.py
+Make sure you have an active internet connection for the script to download and install the packages. If you encounter any errors, please ensure you have the necessary permissions and check the Python installation documentation for further troubleshooting.
