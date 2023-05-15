@@ -1,0 +1,2 @@
+Warning:
+This Python script is optimized for medium-end and high-end computers. Running this script on a low-end computer may result in CPU overflow and excessive RAM usage. Please ensure that your system meets the recommended hardware requirements before executing the script.
